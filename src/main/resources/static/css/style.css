@@ -1,0 +1,41 @@
+.roboto
+{
+    font-family: 'Georgia', sans-serif;
+    color: paleturquoise;
+}
+
+.navbar-default {
+    background-color: gainsboro;
+    border-color: #ffc371;
+}
+
+.bg{
+    background-image: url("http://maxpixel.freegreatpicture.com/static/photo/1x/Lost-Dog-Mutts-Dog-Pet-Home-Adopted-Dog-Adoption-2911444.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.form2_bg{
+    padding: 10%;
+    border: 1px ridge lightyellow;
+    opacity: 0.9;
+    background: linear-gradient(to right, #ffc371, #ffc371);
+
+}
+.label{
+    text-align: right;
+    font-size: medium;
+
+}
+
+.input{
+    padding-bottom: 1em;
+    padding-top: 1em;
+    font-size: medium;
+}
