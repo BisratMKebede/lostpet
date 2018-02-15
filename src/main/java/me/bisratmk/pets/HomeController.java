@@ -1,4 +1,4 @@
-package me.soulyana.pets;
+package me.bisratmk.pets;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

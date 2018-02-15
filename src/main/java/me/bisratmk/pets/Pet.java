@@ -1,4 +1,4 @@
-package me.soulyana.pets;
+package me.bisratmk.pets;
 
 
 import javax.persistence.Entity;
